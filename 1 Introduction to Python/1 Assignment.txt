@@ -1,0 +1,8 @@
+1. Install Python
+2. Print hello world 
+	- using interpreter
+	- using cmd/idle
+3. What are the features of python?
+4. Print sum of a=5 and b=6.
+
+

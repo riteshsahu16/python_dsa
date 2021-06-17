@@ -1,0 +1,126 @@
+Revise
+Introduction to Programming
+Problem in natural language - solve using computer
+programming- programmer
+
+Machine COde 0/1
+Assembler
+HLL 
+Compiler 
+Interpreter
+
+line by line : interpreter
+runtime error
+slow
+
+once time : compiler
+compile time - error checking
+fast
+
+*IL Compiler and Interpreter Java/C#
+comipile -> IL code (bytecode)(MSIL) -> machine
+
+
+The Compilation Process:
+In C
+HLL -->(Pre-Processing) Pure HLL --> (Compiler) Assembly Lang. --> (Assembler) Machine Code --> (Linker/Loader) Executable Code
+
+
+In Python
+programmer : interpreted  
+
+Compilation:- source file(.py) --> ByteCode --> Machine Code [code stored in .pyc files]
+Linking:-functions linked with their definitions
+
+Python Features
+	indentation
+	logic oriented
+	short & precise syntax 
+	rich set of library functions
+	loosly typed
+	OOP Java/C#
+		-Class
+		-Method
+		-Object
+Class : blueprint
+phone: class
+	Battery : property
+	SOC chip: 
+	display: 
+	
+	poweron() : methods
+	volumeup()
+
+samsung(6000, Qualcom, FHD) : instance
+readme(5000, Qualcom, FHD+)
+redmi.UI = MI-UI
+
+
+		Pillars of OOP
+			- Inheritance (Baap ka property)
+			- Encapsulation (Information Hiding)
+			- Polymorphism (Behrupia)
+			- Abstraction (Surface level design)
+
+struct phone{
+	battery:
+	chip:
+	display:
+}
+
+struct phone samsung, redmi;
+
+Python VS C
+-OOP
+-Efficiency 
+-Syntax
+-Error Handling
+
+Python vs C++ (C++ is best)
+-STL 
+-logic orientation
+
+Python vs Java/C#
+-OOP
+-Generics
+-Efficiency
+-Cross Platform
+
+Installation : python.org
+	-python interpreter
+	-idle (shell/editor)
+
+
+Representation [General Concepts]
+Integers
+characters
+
+signed integer : 2's complement
+MSB = 1: negative 	MSB=0 : Postive
+unsigned integer
+
+16 = 2byte
+short int i = 5 (= 101 in binary)
+in computer it is stored as 00000000 00000101
+
+In Python, no need to declare type in advance
+i = 5;
+i = -5;
+
+
+Printing:
+print("ritesh");
+print(29);
+
+Python - Do what you want!!
+
+
+
+
+
+
+
+
+
+ 
+	
