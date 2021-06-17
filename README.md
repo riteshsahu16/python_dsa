@@ -4,9 +4,9 @@
 
 A. Python Basics (June-August)
   1. Introduction to Python (Ritesh)
-      - Session1: Features of Python, Installation, Execution Flow
-      - Session2: Python : Basic data types, input, output, tokens
-      - Session3: Introduction to Github, Codechef/Codeforces(A/c setup + solving basic problems)
+      - Session1 (17 Jun): Features of Python, Installation, Execution Flow
+      - Session2 (19 Jun): Python : Basic data types, input, output, tokens
+      - Session3 (20 Jun): Introduction to Github, Codechef/Codeforces(A/c setup + solving basic problems)
   2. Operators & Precedence (Rupal)
   3. Conditionals (Rupal)
   4. Loops (Mrinal)
